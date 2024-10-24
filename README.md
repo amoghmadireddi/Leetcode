@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/amoghmadireddi/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
