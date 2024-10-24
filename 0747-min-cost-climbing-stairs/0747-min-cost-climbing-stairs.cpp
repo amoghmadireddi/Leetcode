@@ -8,6 +8,8 @@ public:
         }
         int b = cost[1];
         for(int i = 2; i < size; i++){
+            // a references cost of step i - 1
+            // b is cost of step i
             int temp = a;
             a = b;
             b = min(temp, b) + cost[i];
