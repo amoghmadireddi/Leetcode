@@ -9,29 +9,33 @@ public:
     }
     
     void addNum(int num) {
-        minheap.push(num);
-        if(minheap.size() > maxheap.size() + 1){
-            int num2 = minheap.top();
-            minheap.pop();
-            maxheap.push(num2);
+        if(maxheap.empty() || maxheap.top() > num){
+            maxheap.push(num);
         }
-        if(maxheap.size()){
-            while(maxheap.top() > minheap.top()){
-                int num2 = maxheap.top();
-                int num3 = minheap.top();
-                maxheap.pop();
-                minheap.pop();
-                maxheap.push(num3);
-                minheap.push(num2);
-            }
+        else{
+            minheap.push(num);
+        }
+        if(minheap.size() > maxheap.size() + 1){
+            maxheap.push(minheap.top());
+            minheap.pop();
+        }
+        else if(maxheap.size() > minheap.size() + 1){
+            minheap.push(maxheap.top());
+            maxheap.pop();
         }
     }
     
     double findMedian() {
-        if(maxheap.size() == minheap.size()){
+        int diff = maxheap.size() - minheap.size();
+        if(!diff){
             return (minheap.top() + maxheap.top()) / 2.0;
         }
-        return minheap.top();
+        else if(diff > 0){
+            return maxheap.top();
+        }
+        else{
+            return minheap.top();
+        }
         
     }
 };
