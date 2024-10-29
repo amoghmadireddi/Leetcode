@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/amoghmadireddi/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amoghmadireddi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amoghmadireddi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
