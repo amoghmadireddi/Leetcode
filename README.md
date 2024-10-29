@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/amoghmadireddi/Leetcode/tree/master/0593-valid-square) |
 | [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amoghmadireddi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/amoghmadireddi/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
