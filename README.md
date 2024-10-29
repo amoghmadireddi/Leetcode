@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -93,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/amoghmadireddi/Leetcode/tree/master/0593-valid-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
