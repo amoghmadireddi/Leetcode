@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amoghmadireddi/Leetcode/tree/master/0198-house-robber) |
 | [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0598-range-addition-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0598-range-addition-ii) |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/amoghmadireddi/Leetcode/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0634-find-the-derangement-of-an-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0634-find-the-derangement-of-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0747-min-cost-climbing-stairs](https://github.com/amoghmadireddi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Backtracking
 |  |
