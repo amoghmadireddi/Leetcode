@@ -11,30 +11,16 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        int num_nodes = 0;
-        ListNode * mover = head;
-        while(mover != nullptr){
-            num_nodes++;
-            mover = mover->next;
-        }
-        mover = head;
-        //need to add num_node / 2 nodes to stack;
-        std::stack<ListNode*> stack_nodes;
-        for(int i = 0; i < num_nodes / 2; i++){
-            stack_nodes.push(mover);
-            mover = mover->next;
-        }
-        if(num_nodes % 2 == 1){
-            mover = mover->next;
-        }
-        while(!stack_nodes.empty()){
-            if(stack_nodes.top()->val != mover->val){
-                return false;
-            }
-            stack_nodes.pop();
-            mover = mover->next;
-        }
+        ListNode *slow = head, *fast = head, *prev, *temp;
+        while (fast && fast->next)
+            slow = slow->next, fast = fast->next->next;
+        prev = slow, slow = slow->next, prev->next = NULL;
+        while (slow)
+            temp = slow->next, slow->next = prev, prev = slow, slow = temp;
+        fast = head, slow = prev;
+        while (slow)
+            if (fast->val != slow->val) return false;
+            else fast = fast->next, slow = slow->next;
         return true;
-        
     }
 };
