@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0598-range-addition-ii) |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/amoghmadireddi/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/amoghmadireddi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/amoghmadireddi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/amoghmadireddi/Leetcode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/amoghmadireddi/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/amoghmadireddi/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
