@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/amoghmadireddi/Leetcode/tree/master/0198-house-robber) |
+| [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0598-range-addition-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0598-range-addition-ii) |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/amoghmadireddi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1319-unique-number-of-occurrences](https://github.com/amoghmadireddi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amoghmadireddi/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/amoghmadireddi/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Heap (Priority Queue)
 |  |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
+## Queue
+|  |
+| ------- |
+| [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 <!---LeetCode Topics End-->
