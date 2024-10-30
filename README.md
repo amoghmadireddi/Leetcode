@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/amoghmadireddi/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/amoghmadireddi/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
+| [0969-number-of-recent-calls](https://github.com/amoghmadireddi/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Quickselect
 |  |
 | ------- |
