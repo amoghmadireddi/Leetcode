@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amoghmadireddi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amoghmadireddi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amoghmadireddi/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amoghmadireddi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Design
