@@ -13,11 +13,9 @@ public:
                 high--;
                 continue;
             }
-            if(tolower(s[low]) != tolower(s[high])){
+            if(tolower(s[low++]) != tolower(s[high--])){
                 return false;
             }
-            low++;
-            high--;
         }
         return true;
     }
