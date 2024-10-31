@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/amoghmadireddi/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/amoghmadireddi/Leetcode/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/amoghmadireddi/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/amoghmadireddi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/amoghmadireddi/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
