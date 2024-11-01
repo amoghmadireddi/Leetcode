@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amoghmadireddi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amoghmadireddi/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/amoghmadireddi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amoghmadireddi/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amoghmadireddi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amoghmadireddi/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/amoghmadireddi/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Design
