@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amoghmadireddi/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2365-percentage-of-letter-in-string](https://github.com/amoghmadireddi/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/amoghmadireddi/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
