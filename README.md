@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Bitmask
 |  |
 | ------- |
