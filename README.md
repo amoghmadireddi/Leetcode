@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amoghmadireddi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
