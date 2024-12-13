@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/amoghmadireddi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/amoghmadireddi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1344-maximum-equal-frequency](https://github.com/amoghmadireddi/Leetcode/tree/master/1344-maximum-equal-frequency) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/amoghmadireddi/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/amoghmadireddi/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/amoghmadireddi/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amoghmadireddi/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
