@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/amoghmadireddi/Leetcode/tree/master/0598-range-addition-ii) |
 | [0634-find-the-derangement-of-an-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0634-find-the-derangement-of-an-array) |
 | [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/amoghmadireddi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/amoghmadireddi/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amoghmadireddi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
