@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/amoghmadireddi/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/amoghmadireddi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/amoghmadireddi/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Bitmask
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
