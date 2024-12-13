@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amoghmadireddi/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amoghmadireddi/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amoghmadireddi/Leetcode/tree/master/0169-majority-element) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amoghmadireddi/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amoghmadireddi/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/amoghmadireddi/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amoghmadireddi/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 ## Backtracking
 |  |
 | ------- |
