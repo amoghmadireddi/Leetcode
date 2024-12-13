@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [2402-maximum-xor-after-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/amoghmadireddi/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0634-find-the-derangement-of-an-array](https://github.com/amoghmadireddi/Leetcode/tree/master/0634-find-the-derangement-of-an-array) |
 | [1236-n-th-tribonacci-number](https://github.com/amoghmadireddi/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1307-ugly-number-iii](https://github.com/amoghmadireddi/Leetcode/tree/master/1307-ugly-number-iii) |
+| [2402-maximum-xor-after-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/amoghmadireddi/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/amoghmadireddi/Leetcode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [2402-maximum-xor-after-operations](https://github.com/amoghmadireddi/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/amoghmadireddi/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Bitmask
 |  |
