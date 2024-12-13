@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/amoghmadireddi/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/amoghmadireddi/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/amoghmadireddi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1344-maximum-equal-frequency](https://github.com/amoghmadireddi/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/amoghmadireddi/Leetcode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2428-equal-row-and-column-pairs](https://github.com/amoghmadireddi/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0353-design-snake-game](https://github.com/amoghmadireddi/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/amoghmadireddi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1319-unique-number-of-occurrences](https://github.com/amoghmadireddi/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1344-maximum-equal-frequency](https://github.com/amoghmadireddi/Leetcode/tree/master/1344-maximum-equal-frequency) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amoghmadireddi/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amoghmadireddi/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/amoghmadireddi/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
